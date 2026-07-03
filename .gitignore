@@ -1,5 +1,9 @@
 # Compiled class file
 *.class
+.gradle
+.idea
+*.iml
+build
 
 # Log file
 *.log
